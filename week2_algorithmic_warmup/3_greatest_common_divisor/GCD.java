@@ -8,7 +8,10 @@ public class GCD {
 
     if (a > b && r ==0){
       return current_gcd;
-    } else {
+    } else if (a == b) {
+      return a;
+    }
+    else {
       return gcd(b, a%b);
     }
 

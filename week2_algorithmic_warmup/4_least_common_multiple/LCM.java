@@ -3,19 +3,21 @@ import java.util.*;
 public class LCM {
   private static long lcm_naive(int a, int b) {
 
-
-    return (long) a * b / gcd_naive(a, b);
+    return (long) a * b / gcd(a, b);
   }
 
-  private static int gcd_naive(int a, int b) {
+  private static int gcd(int a, int b) {
 
     int r = a % b;
     int current_gcd = b;
 
     if (a > b && r ==0){
       return current_gcd;
-    } else {
-      return gcd_naive(b, a%b);
+    } else if (a == b) {
+      return a;
+    }
+    else {
+      return gcd(b, a%b);
     }
 
   }

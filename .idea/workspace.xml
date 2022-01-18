@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciHuge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciSumLastDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/Fibonacci_Optimized.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/Fibonacci_Optimized.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/LCM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/4_least_common_multiple/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/4_least_common_multiple/LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +49,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci_Optimized">
-    <configuration name="FibonacciLastDigit_Optimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciLastDigit_Optimized" />
+  <component name="RunManager" selected="Application.FibonacciSumLastDigit">
+    <configuration name="FibonacciHuge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciHuge" />
       <module name="week2_algorithmic_warmup" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci_Naive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci_Naive" />
+    <configuration name="FibonacciSumLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSumLastDigit" />
       <module name="week2_algorithmic_warmup" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibonacci_Optimized" />
-        <item itemvalue="Application.LCM" />
+        <item itemvalue="Application.FibonacciSumLastDigit" />
+        <item itemvalue="Application.FibonacciHuge" />
         <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.FibonacciLastDigit_Optimized" />
-        <item itemvalue="Application.Fibonacci_Naive" />
+        <item itemvalue="Application.LCM" />
+        <item itemvalue="Application.Fibonacci_Optimized" />
       </list>
     </recent_temporary>
   </component>
