@@ -2,27 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciHuge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciSumLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/Fibonacci_Optimized.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/Fibonacci_Optimized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/LCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/4_least_common_multiple/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/4_least_common_multiple/LCM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.hs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/APlusB.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/MaxPairwiseProduct$FastScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/MaxPairwiseProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/max_pairwise_product.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/max_pairwise_product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/max_pairwise_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1_programming_challenges/max_pairwise_product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciHuge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciLastDigit_Naive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciLastDigit_Optimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciPartialSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciSumLastDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/FibonacciSumSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/Fibonacci_Naive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/Fibonacci_Optimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2_algorithmic_warmup/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/1_money_change/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/1_money_change/Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="21NDfiFF8AHE0UJ5G8Xw470crfg" />
   <component name="ProjectLevelVcsManager">
@@ -35,9 +59,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="shared-indexes" />
   </component>
@@ -49,10 +76,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciSumLastDigit">
-    <configuration name="FibonacciHuge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciHuge" />
-      <module name="week2_algorithmic_warmup" />
+  <component name="RunManager" selected="Application.FractionalKnapsack">
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Change" />
+      <module name="week3_greedy_algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,9 +91,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci_Optimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci_Optimized" />
-      <module name="week2_algorithmic_warmup" />
+    <configuration name="FractionalKnapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FractionalKnapsack" />
+      <module name="week3_greedy_algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,15 +114,27 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibonacciSumLastDigit" />
-        <item itemvalue="Application.FibonacciHuge" />
-        <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.LCM" />
-        <item itemvalue="Application.Fibonacci_Optimized" />
+        <item itemvalue="Application.FractionalKnapsack" />
+        <item itemvalue="Application.Change" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="" />
+      <created>1643752329693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643752329693</updated>
+      <workItem from="1643752332224" duration="208000" />
+      <workItem from="1643755722387" duration="5323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
   </component>
@@ -109,5 +148,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

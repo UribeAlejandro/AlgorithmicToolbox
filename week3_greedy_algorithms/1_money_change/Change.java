@@ -1,9 +1,19 @@
 import java.util.Scanner;
 
 public class Change {
-    private static int getChange(int m) {
-        //write your code here
-        return m;
+    private static int getChange(int money) {
+        int num_coins = 0;
+        int[] coins = {10,5,1};
+
+        for (int coin: coins) {
+            while (money - coin >= 0) {
+                num_coins += 1;
+                money -= coin;
+            }
+        }
+
+
+        return num_coins;
     }
 
     public static void main(String[] args) {
