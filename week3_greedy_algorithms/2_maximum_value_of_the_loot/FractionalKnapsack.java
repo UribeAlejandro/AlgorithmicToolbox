@@ -1,24 +1,39 @@
 import java.util.*;
+import java.util.stream.IntStream;
 
 public class FractionalKnapsack {
+    private static int getBestItem(int n, int[] values, int[] weights) {
+        int bestItem = 0;
+        double maxValuePerWeight = 0d;
+
+        for (int i = 0; i < n; i++) {
+            if (weights[i] > 0) {
+                if ((double) values[i] / weights[i] > maxValuePerWeight) {
+                    maxValuePerWeight = (double) values[i] / weights[i];
+                    bestItem = i;
+                }
+            }
+        }
+        return bestItem;
+    }
+
     private static double getOptimalValue(int n, int capacity, int[] values, int[] weights) {
-        double value = 0;
-        List<Double> unit_prices = new ArrayList<Double>(n);
+        int numberItems;
+        int indexBestItem;
+        double totalValue = 0;
 
-        for (int i= 0; i< n; i++) {
-            unit_prices.add((double) values[i] / weights[i]);
+        for (int i = 0; i < n; i++) {
+            if (capacity == 0) {
+                return totalValue;
+            } else {
+                indexBestItem = getBestItem(n, values, weights);
+                numberItems = Math.min(weights[indexBestItem], capacity);
+                totalValue = totalValue + (double) numberItems * (double) values[indexBestItem] / weights[indexBestItem];
+                weights[indexBestItem] = weights[indexBestItem] - numberItems;
+                capacity = capacity - numberItems;
+            }
         }
-
-        Collections.sort(unit_prices, Collections.reverseOrder());
-
-        for (double unit_price: unit_prices) {
-
-            value += unit_price;
-        }
-
-
-
-        return value;
+        return totalValue;
     }
 
     public static void main(String[] args) {

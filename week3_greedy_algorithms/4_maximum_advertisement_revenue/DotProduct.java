@@ -2,10 +2,22 @@ import java.util.*;
 
 public class DotProduct {
     private static long maxDotProduct(int[] a, int[] b) {
-        //write your code here
         long result = 0;
+        long[] prices = new long[b.length];
+
         for (int i = 0; i < a.length; i++) {
-            result += (long)a[i] * (long)b[i];
+            long bestPricePerClick = 0;
+            for (long price : b) {
+                if (price > bestPricePerClick) {
+                    prices[i] = price;
+                }
+                System.out.println(Arrays.toString(prices));
+            }
+        }
+        System.out.println(Arrays.toString(prices));
+
+        for (int i = 0; i < a.length; i++) {
+            result += (long) a[i] * prices[i];
         }
         return result;
     }
