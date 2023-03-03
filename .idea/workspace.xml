@@ -5,13 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmicToolbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmicToolbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CarFueling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CarFueling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/FractionalKnapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/FractionalKnapsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/1_money_change/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/1_money_change/Change.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/CarFueling.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/CarFueling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/DotProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CarFueling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/Change.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CoveringSegments$Segment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CoveringSegments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/DifferentSummands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/DotProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/FractionalKnapsack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/LargestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1_programming_challenges/sum_of_two_digits/APlusB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1_programming_challenges/maximum_pairwise_product/MaxPairwiseProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/week1_programming_challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/week1_programming_challenges.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/1_fibonacci_number/Fibonacci_Naive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2_algorithmic_warmup/fibonacci_number/Fibonacci_Naive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/1_fibonacci_number/Fibonacci_Optimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2_algorithmic_warmup/fibonacci_number/Fibonacci_Optimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit_Naive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit_Optimized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/4_least_common_multiple/LCM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/1_money_change/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/money_change/Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_value_of_the_loot/FractionalKnapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/CarFueling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/car_fueling/CarFueling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_advertisement_revenue/DotProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures/CoveringSegments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/collecting_signatures/CoveringSegments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes/DifferentSummands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_number_of_prizes/DifferentSummands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_salary/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/week3_greedy_algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/week3_greedy_algorithms.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/2_binary_search_with_duplicates/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/3_majority_element/MajorityElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/4_improving_quicksort/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/5_number_of_inversions/Inversions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/6_organizing_a_lottery/PointsAndSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/7_closest_points/Closest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/week4_divide_and_conquer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/week4_divide_and_conquer.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4_divide_and_conquer/week4_divide_and_conquer.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/ChangeDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/1_money_change_again/ChangeDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/3_edit_distance/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/week5_dynamic_programming1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/week5_dynamic_programming1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/week5_dynamic_programming1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/week5_dynamic_programming1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/week6_dynamic_programming2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/week6_dynamic_programming2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/week6_dynamic_programming2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/week6_dynamic_programming2.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +72,14 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="FoldableProjectSettings">
     <option name="PATTERNS" value=".git*" />
@@ -44,68 +104,260 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/uribe/Documents/Misc/Code/Learning/AlgorithmicToolbox&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_opened_file_path": "/home/uribe/Documents/Misc/Code/Learning/AlgorithmicToolbox",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week1_programming_challenges.sum_of_two_digits" />
+      <recent name="week1_programming_challenges.maximum_pairwise_product" />
+      <recent name="week1_programming_challenges" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week1_programming_challenges" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DotProduct">
-    <configuration name="CarFueling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarFueling" />
-      <module name="week3_greedy_algorithms" />
+  <component name="RunManager" selected="Maven.AlgorithmicToolbox [test]">
+    <configuration name="APlusBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_programming_challenges.sum_of_two_digits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week1_programming_challenges.sum_of_two_digits" />
+      <option name="MAIN_CLASS_NAME" value="week1_programming_challenges.sum_of_two_digits.APlusBTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Change" />
-      <module name="week3_greedy_algorithms" />
+    <configuration name="APlusBTest.APlusBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_programming_challenges.sum_of_two_digits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week1_programming_challenges.sum_of_two_digits" />
+      <option name="MAIN_CLASS_NAME" value="week1_programming_challenges.sum_of_two_digits.APlusBTest" />
+      <option name="METHOD_NAME" value="APlusBTest(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DotProduct" />
-      <module name="week3_greedy_algorithms" />
+    <configuration name="All in AlgorithmicToolbox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolbox" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FractionalKnapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FractionalKnapsack" />
-      <module name="week3_greedy_algorithms" />
+    <configuration name="MaxPairwiseProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_programming_challenges.maximum_pairwise_product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week1_programming_challenges.maximum_pairwise_product" />
+      <option name="MAIN_CLASS_NAME" value="week1_programming_challenges.maximum_pairwise_product.MaxPairwiseProductTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCM" />
-      <module name="week2_algorithmic_warmup" />
+    <configuration name="MaxPairwiseProductTest.MaxPairwiseProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicToolbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_programming_challenges.maximum_pairwise_product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week1_programming_challenges.maximum_pairwise_product" />
+      <option name="MAIN_CLASS_NAME" value="week1_programming_challenges.maximum_pairwise_product.MaxPairwiseProductTest" />
+      <option name="METHOD_NAME" value="MaxPairwiseProductTest(int[],int)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="AlgorithmicToolbox" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MUnitRunConfiguration" factoryName="MUnit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="shortenClasspath" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmicToolbox [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in AlgorithmicToolbox" />
+      <item itemvalue="JUnit.APlusBTest" />
+      <item itemvalue="JUnit.APlusBTest.APlusBTest" />
+      <item itemvalue="JUnit.MaxPairwiseProductTest" />
+      <item itemvalue="JUnit.MaxPairwiseProductTest.MaxPairwiseProductTest" />
+      <item itemvalue="Maven.AlgorithmicToolbox [test]" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DotProduct" />
-        <item itemvalue="Application.CarFueling" />
-        <item itemvalue="Application.FractionalKnapsack" />
-        <item itemvalue="Application.Change" />
+        <item itemvalue="JUnit.All in AlgorithmicToolbox" />
+        <item itemvalue="JUnit.APlusBTest" />
+        <item itemvalue="JUnit.MaxPairwiseProductTest.MaxPairwiseProductTest" />
+        <item itemvalue="JUnit.APlusBTest.APlusBTest" />
+        <item itemvalue="JUnit.MaxPairwiseProductTest" />
       </list>
     </recent_temporary>
   </component>
@@ -138,5 +390,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
