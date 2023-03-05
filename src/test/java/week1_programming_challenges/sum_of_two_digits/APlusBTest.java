@@ -19,7 +19,7 @@ public class APlusBTest {
         return Stream.of(
                 Arguments.of(1, 1, 2),
                 Arguments.of(-1, -1, -2),
-                Arguments.of(100, 100, 0)
+                Arguments.of(100, 100, 200)
         );
     }
 

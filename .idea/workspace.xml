@@ -4,66 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmicToolbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmicToolbox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CarFueling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/Change.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CoveringSegments$Segment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/CoveringSegments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/DifferentSummands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/DotProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/FractionalKnapsack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3_greedy_algorithms/LargestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1_programming_challenges/sum_of_two_digits/APlusB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1_programming_challenges/maximum_pairwise_product/MaxPairwiseProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/week1_programming_challenges.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_programming_challenges/week1_programming_challenges.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/1_fibonacci_number/Fibonacci_Naive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2_algorithmic_warmup/fibonacci_number/Fibonacci_Naive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/1_fibonacci_number/Fibonacci_Optimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2_algorithmic_warmup/fibonacci_number/Fibonacci_Optimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit_Naive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit_Optimized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/4_least_common_multiple/LCM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/1_money_change/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/money_change/Change.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_value_of_the_loot/FractionalKnapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/CarFueling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/car_fueling/CarFueling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_advertisement_revenue/DotProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures/CoveringSegments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/collecting_signatures/CoveringSegments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes/DifferentSummands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_number_of_prizes/DifferentSummands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3_greedy_algorithms/maximum_salary/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/week3_greedy_algorithms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/week3_greedy_algorithms.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/2_binary_search_with_duplicates/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/3_majority_element/MajorityElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/4_improving_quicksort/Sorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/5_number_of_inversions/Inversions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/6_organizing_a_lottery/PointsAndSegments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/7_closest_points/Closest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/week4_divide_and_conquer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/week4_divide_and_conquer.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4_divide_and_conquer/week4_divide_and_conquer.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/ChangeDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/1_money_change_again/ChangeDP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/3_edit_distance/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/week5_dynamic_programming1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/week5_dynamic_programming1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/week5_dynamic_programming1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week5_dynamic_programming1/week5_dynamic_programming1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/week6_dynamic_programming2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/week6_dynamic_programming2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/week6_dynamic_programming2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6_dynamic_programming2/week6_dynamic_programming2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week1_programming_challenges/sum_of_two_digits/APlusBTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week1_programming_challenges/sum_of_two_digits/APlusBTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +16,19 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,6 +46,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,22 +62,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "jdk.selected.JAVA_MODULE": "corretto-1.8",
-    "last_opened_file_path": "/home/uribe/Documents/Misc/Code/Learning/AlgorithmicToolbox",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/uribe/Documents/Misc/Code/Learning/AlgorithmicToolbox&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -138,7 +96,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.AlgorithmicToolbox [test]">
+  <component name="RunManager" selected="JUnit.All in AlgorithmicToolbox">
     <configuration name="APlusBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmicToolbox" />
       <extension name="coverage">
@@ -240,16 +198,6 @@
       </method>
     </configuration>
     <configuration default="true" type="MUnitRunConfiguration" factoryName="MUnit" show_console_on_std_err="false" show_console_on_std_out="false">
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
-        </ENTRIES>
-      </extension>
       <option name="VMParameters" value="" />
       <option name="allowRunningInParallel" value="false" />
       <option name="alternativeJrePath" />
@@ -269,44 +217,10 @@
       <option name="testKind" value="Class" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <option name="shortenClasspath" value="NONE" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="AlgorithmicToolbox [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="test" />
-              </list>
-            </option>
-            <option name="pomFileName" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
-        </ENTRIES>
-      </extension>
-      <method v="2" />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -344,12 +258,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in AlgorithmicToolbox" />
       <item itemvalue="JUnit.APlusBTest" />
       <item itemvalue="JUnit.APlusBTest.APlusBTest" />
+      <item itemvalue="JUnit.All in AlgorithmicToolbox" />
       <item itemvalue="JUnit.MaxPairwiseProductTest" />
       <item itemvalue="JUnit.MaxPairwiseProductTest.MaxPairwiseProductTest" />
-      <item itemvalue="Maven.AlgorithmicToolbox [test]" />
     </list>
     <recent_temporary>
       <list>
@@ -392,6 +305,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
