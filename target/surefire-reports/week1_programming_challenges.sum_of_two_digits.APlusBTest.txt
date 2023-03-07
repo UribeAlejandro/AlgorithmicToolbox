@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: week1_programming_challenges.sum_of_two_digits.APlusBTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in week1_programming_challenges.sum_of_two_digits.APlusBTest
