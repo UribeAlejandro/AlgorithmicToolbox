@@ -5,82 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fad356ad-0bc2-4db9-bb34-9636bb22e385" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.pre-commit-config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/poms/pom-default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/toolbox_statements.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gitignore" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gitignore" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/misc.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/misc.xml" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/runConfigurations.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/vcs.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/vcs.xml" afterDir="false" />
       <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/README.md" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/README.md" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build.gradle" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build.gradle" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/poms/pom-default.xml" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/resources/main/toolbox_statements.pdf" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/gradlew" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/gradlew" afterDir="false" />
-      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/gradlew.bat" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/gradlew.bat" afterDir="false" />
+      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.pre-commit-config.yaml" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/.pre-commit-config.yaml" afterDir="false" />
+      <change beforePath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/src/main/java/com/algorithms/week1_programming_challenges/sum_of_two_digits/APlusB.java" beforeDir="false" afterPath="/mnt/Documents/Misc/Code/Learning/AlgorithmicToolbox/src/main/java/com/algorithms/week1_programming_challenges/sum_of_two_digits/APlusB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,22 +89,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/uribe/Documents/Misc/Code/Learning/AlgorithmicToolbox&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_opened_file_path": "/home/uribe/Documents/Misc/Code/Learning/AlgorithmicToolbox",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Scala"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />

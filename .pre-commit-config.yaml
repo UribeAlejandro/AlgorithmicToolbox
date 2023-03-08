@@ -3,9 +3,4 @@ repos:
     rev: v2.0.0
     hooks:
       - id: pretty-format-java
-        name: Google Java Formatter
-        description: Runs Google Java Formatter over Java source files
-        entry: pretty-format-java
-        language: python
-        types: [ java ]
-
+        args: [ --autofix ]
